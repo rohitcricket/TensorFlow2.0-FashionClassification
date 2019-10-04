@@ -1,6 +1,6 @@
 # Classify clothing items Using TensorFlow 2.0
 
-![Clothes](clothes.jpg)
+![clothes](clothes.jpg)
 
 This project classifies lothes using Deep Learning and [Tensorflow](https://www.tensorflow.org) 2.0. 
 
