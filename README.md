@@ -1,4 +1,4 @@
-# Classify clothing items Using TensorFlow 2.0
+# Classify Fashion Items Using TensorFlow 2.0
 
 ![clothes](clothes.jpg)
 
