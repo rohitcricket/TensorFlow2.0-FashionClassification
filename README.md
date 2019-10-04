@@ -1,8 +1,8 @@
 # Classify clothing items Using TensorFlow 2.0
 
-![Fashion](clothes.jpg)
+![Clothes](clothes.jpg)
 
-This project classifies types of clothes using Deep Learning and [Tensorflow](https://www.tensorflow.org) 2.0. 
+This project classifies lothes using Deep Learning and [Tensorflow](https://www.tensorflow.org) 2.0. 
 
 ### Data Reference:
 
